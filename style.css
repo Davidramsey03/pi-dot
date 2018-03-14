@@ -1,0 +1,40 @@
+html, body {
+  margin: 14px 0 0 14px;
+  padding: 0;
+  overflow: hidden;
+  font-family: 'Roboto', sans-serif;
+}
+
+html {
+  background-color: rgb(30,30,30);
+}
+
+canvas { z-index: -1;}
+
+input {
+    background-color: rgba(255,255,255,0.5);
+    padding: 2px;
+    margin: 8px 4px 0 4px;
+    border: none;
+    float: left;
+    width: 24px;
+    text-align: center;
+    font-size: 18px;
+}
+
+p {
+    color: white;
+    margin-top: 0;
+    padding-top: 12px;
+    padding-bottom: 6px;
+    clear: right;
+}
+
+button {
+   background-color: rgb(100, 100, 100);
+   border:none;
+   border-bottom: 3px solid rgb(60,60,60);
+   padding:4px 10px;
+   margin-left: 4px;
+   color: white;
+}
