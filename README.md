@@ -11,3 +11,6 @@ Featuring:
 <li>Each circle is colored with it's STROKE to be representative of it's digit of pi, and it's FILL to be representative of the following digit.</li>
   <li>If a nearby circle has the SAME digit of pi, a line is drawn connecting the two.</li>
   </ul>
+
+<h3>Attribution / Source</h3>
+<em>Original artwork and inspiration for this project based on art by Martin Krzywinski (http://mkweb.bcgsc.ca/), and as featured here (https://youtu.be/NPoj8lk9Fo4?t=29s)
